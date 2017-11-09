@@ -1,0 +1,28 @@
+{ "name": "json-eq-pmb",
+  "version": "0.1.0",
+  "description": "Assert deep strict equality for subsets of JSON files' data.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/json-eq-pmb-node/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/json-eq-pmb-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/json-eq-pmb-node/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "json-eq.js",
+  "scripts": { "test": "bash test/all.sh" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
